@@ -9,7 +9,7 @@ const Filter = ({ onFilter }) => {
     <div>
       <input 
         type="text" 
-        placeholder="Search tasks..." 
+        placeholder="Rechercher une tâche..." 
         onChange={handleFilter} 
       />
     </div>
